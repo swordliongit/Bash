@@ -1,0 +1,4 @@
+-bash: cd: /root: Permission denied
+-bash: cd: /root: Permission denied
+-bash: cd: /root: Permission denied
+-bash: cd: /root: Permission denied
